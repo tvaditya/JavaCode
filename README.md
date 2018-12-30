@@ -1,2 +1,2 @@
-This is soe of my JavaCode 
-You will faind fthe basics of OOP using java here
+This is some of my JavaCode 
+You will find fthe basics of OOP using java here
